@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone
 
-![Netflix Clone](https://i.imgur.com/m7o7hAG.png) 
+
 
 ## 🌟 Overview
 
@@ -33,4 +33,4 @@ Make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/shibbux/netflix-clone.git
+   git clone https://github.com/mritunjay121003/netflix-clone.git
